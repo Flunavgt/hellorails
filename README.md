@@ -57,11 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello Rails <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Ruby on Rails first project
 
-**[your_project__name]** is a...
+**Hello Rails ** is the first prject to test rails and postgresql
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -202,11 +202,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Federico Luna V. **
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Flunavgt](https://github.com/Flunavgt)
+- Twitter: [@flunavgt](https://twitter.com/flunavgt)
+- LinkedIn: [federico-luna-Gt](https://linkedin.com/in/federico-luna-Gt)
 
 👤 **Author2**
 
